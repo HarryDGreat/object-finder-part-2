@@ -1,0 +1,22 @@
+body{
+    background-size: cover;
+}
+#start,#object_name,#status{
+    font-size: x-large;
+}
+canvas{
+    box-shadow: 5px 5px 5px ghostwhite;
+    border: 2px solid crimson;
+    border-radius: 10px;
+    margin-top: 130px;
+}
+.head{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    font-family: cursive;
+}
+span{
+    font-size: 13px;
+    color: black;
+}
